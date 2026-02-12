@@ -1,6 +1,6 @@
 # ReportWebhook
 
-A lightweight Paper plugin that allows players to report others using `/report` and sends the report to a Discord webhook using a clean embed format.
+A lightweight Paper plugin that allows players to report others using `/report (user) (reason)` and sends the report to a Discord webhook using a clean embed format.
 
 ---
 
