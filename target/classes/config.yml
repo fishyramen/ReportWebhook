@@ -1,0 +1,14 @@
+# Discord webhook URL (or any service compatible with Discord-style webhooks)
+webhook_url: ""
+
+# Optional: username override for webhook (Discord)
+webhook_username: "snitch"
+
+# Optional: avatar url for webhook (Discord)
+webhook_avatar_url: ""
+
+# Optional: embed color (decimal). Default: red.
+embed_color: 16711680
+
+# If true, include UUIDs in the webhook.
+include_uuids: false
